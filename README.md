@@ -16,7 +16,7 @@ This project fine-tunes **DeepSeek R1**, a powerful language model, to enhance i
 4. **Evaluate Performance**: Comparing pre- and post-fine-tuning outputs.
 5. **Deploy & Test**: Use the model for AI-powered medical assistance.
 
-### Steps To Run The Code:
+## Steps To Run The Code :maple_leaf:
 There are two ways in which you can run this notebook. To be honest this repo is only here to make accessible from GitHub as well. But I will include both ways to run it.
 
 #### Option 1 (recommended)
@@ -37,7 +37,7 @@ The second option is not advised as there are a lot of drawbacks with installing
 - **Better diagnostic explanations**: Clearer connections between symptoms & conditions.
 - **Potential use cases**: Medical Q&A bots, clinical decision support, AI-driven documentation.
 
-A screenshot of Weights and Biases statistics can be found below:
+As a bonus, a screenshot of Weights and Biases statistics regarding training process can be found below. Yours should look similar:
 
 ![image](https://github.com/user-attachments/assets/c95cd786-deaf-4d09-a445-9d5713e01a1e)
 
@@ -46,8 +46,11 @@ A screenshot of Weights and Biases statistics can be found below:
 - Integrate reinforcement learning for enhanced decision-making.
 - Fine-tune for specific medical specialties (e.g., radiology, cardiology).
 
-## Author 👤
-- **Utku Özbek (@revtheundead)** (Sole Author)
+## Credits 👤
+This notebook and this code is a fork of Abid Ali Awan's tutorial on [Fine-Tuning DeepSeek R1](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model). I have changed some of the hyperparameters and prompts for better results.
+
+### Author 
+- **Utku Özbek (@revtheundead)**
 
 ## License & Disclaimer 📜
 This project is licensed under the MIT License. See `LICENSE` for details. This work is intended for **educational purposes only** and should not be used for clinical decision-making without expert validation.
